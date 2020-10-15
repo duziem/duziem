@@ -1,5 +1,4 @@
-### Hi step into my office 👋  
-
+ 
 ![Profile image](https://github.com/duziem/duziem/raw/main/profile_pic.jpg)
 <!--
 Here are some ideas to get you started:
