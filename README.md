@@ -1,5 +1,5 @@
  
-![Profile image](https://github.com/duziem/duziem/raw/main/profile_pic.jpg)
+![Profile image](https://github.com/duziem/duziem/raw/main/profile-pic.jpg)
 <!--
 Here are some ideas to get you started:
 
