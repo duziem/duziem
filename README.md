@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact:
 -->  
-I am Full stack developer leveraging on several technologies to build optimized web applications and mobile applications that run smoothly and perform efficiently.  
+I am a Full stack developer leveraging on several technologies to build optimized web applications and mobile applications that run smoothly and perform efficiently.  
 I am proficient in several frameworks and technologies. You can catch me anytime hanging at **stackoverflow, dev.to, medium, Github--obviously**  
 - ✨ check out my profile @ https://duziem.github.io
 - 💬 Ask me about anything. I try to keep an open mind and i'm generous with info
