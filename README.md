@@ -14,6 +14,6 @@ I am proficient in several frameworks and technologies. You can catch me anytime
 - ✨ check out my profile @ https://duziem.github.io
 - 💬 Ask me about anything. I'm always open to share and learn amazing things
 - 📫 How to reach me: [@codedmindz](https://twitter.com/codedmindz) on twitter, [LinkedIn](https://www.linkedin.com/in/nnaemezie-okeke-9433301b0/) && nnaemezie.okeke@gmail.com via gmail
-- 🖊️ I like to think of coding as a form of art that allows the artist the freedom to express his creativity using logic
+- 🖊️ I like to think of coding as a form of art that allows the artist the freedom to express his/her creativity using logic
 
 
