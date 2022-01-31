@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact:
 -->  
-I am a Full stack developer leveraging on several technologies to build optimized web applications and mobile applications that run smoothly and perform efficiently.  
+I am a Full stack developer specializing in Javascript/Node js while leveraging on several technologies including: Git, Docker, Kubernetes, MongoDB/mySql, Redis, Azure, to build optimized web applications.  
 I am proficient in several frameworks and technologies. You can catch me anytime hanging at **stackoverflow, dev.to, medium, Github obviously😏**  
 - ✨ check out my profile @ https://duziem.github.io
 - 💬 Ask me about anything. I'm always open to share and learn amazing things
