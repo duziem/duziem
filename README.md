@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact:
 -->  
-I am a Software Engineer specializing in building scalable applications leveraging multiple technologies including: Git, Docker, Kubernetes, MongoDB, Postgres, Redis, AWS, to build.  
+I am a Software Engineer specializing in building scalable applications by leveraging multiple technologies including: Git, Docker, Kubernetes, MongoDB, Postgres, Redis, AWS, to build.  
 I am proficient in several frameworks and technologies. You can catch me anytime hanging at **stackoverflow, dev.to, medium, Substack, Github obviously😏**  
 - ✨ check out my profile @ https://duziem.github.io
 - 💬 Ask me about anything. I'm always open to share and learn amazing things
