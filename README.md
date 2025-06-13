@@ -9,11 +9,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact:
 -->  
-I am a Full stack developer specializing in Javascript/Node js while leveraging on several technologies including: Git, Docker, Kubernetes, MongoDB/mySql, Redis, Azure, to build optimized web applications.  
-I am proficient in several frameworks and technologies. You can catch me anytime hanging at **stackoverflow, dev.to, medium, Github obviously😏**  
+I am a Software Engineer specializing in building scalable applications leveraging multiple technologies including: Git, Docker, Kubernetes, MongoDB, Postgres, Redis, AWS, to build.  
+I am proficient in several frameworks and technologies. You can catch me anytime hanging at **stackoverflow, dev.to, medium, Substack, Github obviously😏**  
 - ✨ check out my profile @ https://duziem.github.io
 - 💬 Ask me about anything. I'm always open to share and learn amazing things
-- 📫 How to reach me: [@codedmindz](https://twitter.com/codedmindz) on twitter, [LinkedIn](https://www.linkedin.com/in/nnaemezie-okeke-9433301b0/) && nnaemezie.okeke@gmail.com via gmail
-- 🖊️ I like to think of coding as a form of art that allows the artist the freedom to express his/her creativity using logic
+- 📫 How to reach me: [@codedmindz](https://x.com/radikaldev) on twitter, [LinkedIn](https://www.linkedin.com/in/nnaemezie-okeke/) && nnaemezie.okeke@gmail.com via gmail
 
 
